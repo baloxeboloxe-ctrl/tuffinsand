@@ -1,1 +1,1790 @@
-return(function(...)local C={"Hk//x2==","xojBTWiu","vyRACN/PK8B/T5HAOGH=";"c8UlYc/QiqiYhl3k","zVjlXqiYTc5oU8Vb";"y5ZBiyK/1FV7TFc=","vI14O2==";"iW/JzI/yXGH5ilBJhlc=","ZvrJyWN=","1FVEXA==","iWU5H2==";"ikVBiC==","y5Znivd=","+IK8xl1u1m==","HkZeHkV8";"ioQSTWt=","elMz0gsR04/tdReOnClPtG8/Xhzes5q61YwV0Z/tuLx0bjOT";"y5ZfToKuhm==","xFU/TFA=";"cN5cUNRsiyVciEt4+C==","ik5/1FU3","z853TqxWxujGzu1nOON=","TGl=";"XoKyTcfiHEVvhy1rj84J","xoVeiFZB";"TvV8Xm==";"xWKMXv4P","Ov3Oao+aoW7WXieEzhRcZx+XEWsVa/kLBMyGsRqcfc80u8oZvFPljqryAC==";"Y72uiw3fY2==";"vjf5+qrGXVUcHvZrOIrO","OkuYCO1fOFRnYcRPYC==";"iyRMTWt=";"H85PhIjyHk85CjRC","+ln5CyUoHujLjcfAcoA=";"TFje","jkj7XFZSXA==","1FV7TFc=","1v4AHvUJ";"TGt=";"y5ZPHA==","Y2==","1FZE1IRfTox=";"Yv5zvcld1NVVUWVq";"xkj8Tvj8HyK/HoQu";"1FZe1v57iyt=","cGUGzW1MjO1wcqus";"cqUyYcUPc5iAOvu/c2==","jFVBxFjMtlKu1Fjq1FjNtC==","","TFZ/iIU8xoueiA==";"jN5ATIVMzEK/","HPu8iC=="}local function H(H)return C[H+(-215934+(335949+-106698))]end for H,J in ipairs({{532003+-532002;402213-(-838843+1241004)};{161116+-161115,1007376+((676836+-1180216)+-503950)},{159048-159001,(2042213-1043120)-999041}})do while J[-474620+474621]<J[-818975+818977]do C[J[(-857142+787881)+69262]],C[J[((-958646+194527)-(756857-877498))-(-643480)]],J[-162972+162973],J[((-716512-(-825119))+-1062847)-(-954242)]=C[J[200832+((-1032375-(-960710))-129165)]],C[J[(((-720386+-234650)+-149742)-(-606647))-(-498132)]],J[502136-502135]+((457453+427112)-884564),J[-135824+135826]-((274222-(-200521))+-474742)end end do local H=math.floor local J={["8"]=(-498918+((1400606-657201)+-1152911))+908476,M=1033200+(-333297+-699853),f=-564588-(-564629);w=259553+-259551,k=746084+-746030;c=(-1416740-(-890115))-((-320390+-86761)+(-882416-(-762922))),B=-369270+369315,["0"]=-1034889+1034949,L=148961+-148919,O=(-867548+842815)-(-24752),R=-31567-(-31576),j=1022389+((-240071-(-982419))+-1764716);g=-552497-(-552528),I=124169+-124162,C=557983+-557967;m=395531+-395531,t=-292391-(-292399);a=((-443734-(-462987))+388989)+-408183,N=-800684-(-800720);F=671059-671053,["/"]=(-213251-(-16404))+(354124+-157244);J=(248531+-244723)+-3765;["6"]=743421-743410;r=-1020750-(-1020751),S=(328866-344926)-(-16107);x=(-429289-(-82528))+346789;["5"]=419299+(966520+-1385766);["+"]=266561-266543,h=((-1370764-(-380340))-((1140260-963545)-915140))-(-252029);["4"]=-242157+242214;["2"]=-818323-(-818355),n=-396252-(-396296);W=233873-233818;s=-275528-(-275586);U=-201984-(-201997),H=635413-635389;p=-433659+433721,Y=(-928851+1123210)+-194345;y=197680+-197657;E=(118862-(-142299))-(-891963+1153073);T=(-259264+655945)-((410117-(-108172))+-121635),Q=484497+-484448;["1"]=(-138460+1135092)-996603;["9"]=-58297+58307,b=-980786+980801;d=(-1083185-(-838789))-(-457526+213074),V=-373076-(-373081),v=-591696+591718,["7"]=(-132355-773127)-(-905516);K=732242+-732225,i=-525266-(-525291),q=959201-959166;u=-677588-(-677625),P=972468+-972429;z=-535881-(-535893),["3"]=-33744+33784,o=-682361+682399,e=915471+(-287482+-627943);G=(-128809-782177)+910989,Z=1027804+-1027743;X=-200811+200837;A=-681186-(-681234);D=(678491+-1095776)-(-417348);l=650817-650813}local s=type local m=string.char local f=table.insert local y=table.concat local x=string.sub local z=string.len local P=C for C=(-361206-(-115040))+246167,#P,-620195-(-620196)do local d=P[C]if s(d)=="string"then local s=z(d)local p={}local u=-263942+263943 local Y=-894132-(-894132)local a=(-324745+-254783)+((-1073186-(-936364))-(-716350))while u<=s do local C=x(d,u,u)local y=J[C]if y then Y=Y+y*(602182+((129217-309668)+-421667))^(((284755-600254)-(-315502))-a)a=a+(-293143+293144)if a==946192+-946188 then a=-358631+(875900+(224531-741800))local C=H(Y/(-996946+(-470832+(800545-(-732769)))))local J=H((Y%(508498+-442962))/(-1043673+1043929))local s=Y%(176120+-175864)f(p,m(C,J,s))Y=903257+-903257 end elseif C=="="then f(p,m(H(Y/(-66781-(-132317)))))if u>=s or x(d,u+(572276-572275),u+(-431033+431034))~="="then f(p,m(H((Y%(764852+-699316))/(893216-(-644319+1537279)))))end break end u=u+(-548939+548940)end P[C]=y(p)end end end return(function(C,s,m,f,y,x,z,N,q,G,d,b,P,K,p,Q,J,a,u,o,Y)P,N,a,p,K,J,d,Q,u,q,b,o,G,Y={},function(C,H)local s=Y(H)local m=function(m,f,y,x,z)return J(C,{m,f;y;x,z},H,s)end return m end,function(C)local H,J=(748326+-184504)+-563821,C[(1212669-456423)+-756245]while J do d[J],H=d[J]-((678284+-790545)+112262),H+(-758781-(-758782))if-918811-(-918811)==d[J]then d[J],P[J]=nil,nil end J=C[H]end end,function()u=((-733434-(-189107))-(-544328))+u d[u]=966031+-966030 return u end,function(C)d[C]=d[C]-(458486+-458485)if(1049011-1012909)-36102==d[C]then d[C],P[C]=nil,nil end end,function(J,m,f,y)local d,k,I,L,Y,B,z,A,E,n,j,l,F,R,t,T,c,a,v,V,g,r,W,O,i,S,D,M,X,b,u,e,U,w while J do if J<(81707+9932209)-934537 then if J<4715111-(-420738)then if J<943117+1661105 then if J<(595380+-107729)-(-490875)then if J<1076901-(-483659-(-830590))then if J<1615010-1008470 then if J<116710+69992 then Y=714850+-714818 u=P[f[565173-(1168144-602974)]]i=139963-139961 d=u%Y a=P[f[-191735-(-191739)]]c=P[f[-554742-(-554744)]]r=P[f[(277243+-1186089)+(1929296-1020447)]]w=((671055+736851)-970248)-437645 X=r-d r=458314-458282 R=X/r j=w-R O=i^j n=c/O b=a(n)a=565885+4294401411.0 Y=b%a b=902537-902535 a=b^d u=Y/a O=-162274-(301793-464068)i=401217+-400961 a=P[f[673071-673067]]c=u%O O=4294308037.0-(-659259)n=c*O d=nil b=a(n)a=P[f[-606109-(-606113)]]n=a(u)Y=b+n c=348987-283451 b=918145-852609 w=204408-204152 a=Y%b n=Y-a u=nil b=n/c c=-6892+7148 n=a%c O=a-n c=O/i i=-630207-(-630463)Y=nil O=b%i a=nil J=-934826+6785940 j=b-O i=j/w b=nil j={n;c;O,i}O=nil P[f[-131755+131756]]=j i=nil c=nil n=nil else Y=396442+-396355 u=P[f[(799262-154087)-(405905+239267)]]d=u*Y u=-753226-((461728+-993695)+-221516)z=d%u P[f[406744-406741]]=z u=P[f[(455085-(-457488))+-912570]]Y=(-269656-(-372810))+-103153 d=u~=Y J=d and-635933+804096 or 722827+-418171 end else d=H(443985+-457260)z=H(-783319-(-770028))J=C[z]z=J(d)J=C[H(46586-(800132+(-169319-570961)))]z={}end else if J<740943+126977 then d=H(-1020453-(423248+-1430410))Y=628796-(988134+-359338)J=C[d]u=P[f[643119+-643111]]d=J(u,Y)J=13605202-((1085933-546217)-745851)else J=10284023-314348 end end else if J<383281+1481444 then if J<1003563+418060 then J=6834238-477826 r=e t=r X[r]=t r=nil else S=K(S)t=K(t)M=K(M)J=-41981+15288690 D=nil l=K(l)W=K(W)T=K(T)end else if J<(842876+395684)-(-909870)then X=H(-365479+352193)R=C[X]X=H((-60222+(30238-(-888055)))+-871356)J=-488214+(((-460624+(-241089+-259713))+(1271232-548218))+16865407)w=R[X]i=w else d=nil P[f[145770+-145765]]=z J=168748+15649734 end end end else if J<4611860-768093 then if J<(752647+2849426)-(-48379)then if J<62359+3084555 then if J<3282366-613495 then P[u]=U J=P[u]J=J and 12355689-((31304-677306)+834500)or 163595+4523313 else u=m[-529487+(1067334-537845)]d=m[-743544-(-743545)]J=P[f[-754485-(-754486)]]Y=J J=Y[u]J=J and 1005290+4634179 or(329071-112111)+(-528649+14076230)end else J=563193+8394733 n=P[b]z=n end else if J<(-447329-(-829857))+3306091 then k=P[u]J=k and((374336+123233)+((497235+490235)+9353170))-(-22270)or 13066503-(-91773)z=k else B=-139240+139241 A=D[B]k=A J=(474600+-576119)+5267858 end end else if J<63170+4512728 then if J<5266703-938207 then j=K(j)c=K(c)b=K(b)Y=K(Y)n=nil r=nil c=H(475236-488533)a=K(a)R=nil i=K(i)a=p()R=p()e=K(e)Y=nil O=nil j=p()O=H(-588998+575712)w=nil u=K(u)X=nil r=791207+-791206 w={}u=nil P[a]=u u=p()n=H(-651324-(-638027))P[u]=Y b=C[n]n=H((-366325+(336055+594570))+-577607)Y=b[n]b=p()P[b]=Y n=C[c]i=H(-622988-(-609692))X={}c=H(616025+-629323)Y=n[c]c=C[O]J=(-144505+-205934)+6706851 O=H(-162172-(-148903))n=c[O]O=C[i]i=H(871840-885110)c=O[i]O=108553+-108553 i=p()P[i]=O e=-46140+46396 O=-108701+108703 P[j]=O O={}P[R]=w w=-415713-(-415713)g=e e=931466+-931465 S=e e=-222778+(772979+(510334+-1060535))T=S<e e=r-S else Y=H(959997-973293)u=p()J=true a=p()d=m P[u]=J z=C[Y]Y=H(616247+-629549)J=z[Y]Y=p()c=H(-414582-(-401278))b=p()O=q(8478957-862826,{b})P[Y]=J J=N(412301-(-211328),{})P[a]=J J=false P[b]=J n=C[c]c=n(O)z=c J=c and((1031247+1215349)-(-1006046))-(846566+-934224)or 8207452-(-750474)end else if J<(-49160+(-1038911+288763))+(5668355-161904)then J=5500208-391086 else J=Q(1016687+((21618-162268)+16384),{a})v={J()}z={s(v)}J=C[H(-594941-(-581651))]end end end end else if J<-280579+7311743 then if J<22938+(5689036-(-143794))then if J<4884858-(-694010)then if J<311242+5192406 then if J<4569296-(-895417)then P[u]=k L=P[l]E=-103744+103745 I=L+E B=D[I]A=w+B B=488164+-487908 J=A%B w=J I=P[t]B=R+I I=1042000+-1041744 A=B%I J=-825350+2486348 R=A else v=w==R J=88590+2571782 U=v end else z=P[f[912340-912339]]Y=H(-505554+(-811912+1304160))a=(482818+-429087)+18182982405129 d=P[f[378522+-378520]]u=d(Y,a)J=z[u]z=H((390684-42796)-361175)d=H((1127852-(1239884-306004))+(-468374+261129))O=H(-18750+5455)C[z]=J Y=H(((230848-1020538)+965601)+((((((-912665+(-510688+(-94210+43954)))-(-904454))-(-325387))-(1347112-802244))+1682971)+-1083557))i=-1036740+((917077-(421905-(-153004)))+6098150859797)z=C[d]u=C[Y]b=P[f[-692345+(472659+(648673-428986))]]n=P[f[(623487+-193595)-429890]]c=n(O,i)a=b[c]b=H(-742995+729686)b=u[b]Y={b(u,a)}J=C[H(-1019228+1005951)]d=z(s(Y))z=d()z={}end else if J<(1268322-(-487897+1434985))+5416110 then J=9945019-(-1505206-(-871655))else Y=H((((-476426-(-871402))-(((-91698+-346618)+-298273)+1778406))+257918)+375637)u=C[Y]J=C[H(686523+-699790)]Y=H(1001531-1014800)d=u[Y]Y=P[f[495840-495839]]u={d(Y)}z={s(u)}end end else if J<-143408+6470235 then if J<-119063+6202373 then J=683258+7161173 L=-757714-(-757716)I=D[L]L=P[M]B=I==L k=B else J=P[f[1039485+-1039475]]u=P[f[(-181830-804522)+986363]]d[J]=u J=P[f[440161+(821762+-1261911)]]u={J(d)}z={s(u)}J=C[H(79145+-92448)]end else if J<91004+6470761 then e=e+S t=not T r=e<=g r=t and r t=e>=g t=T and t r=t or r t=1768597-734468 J=r and t r=-333526+14192587 J=J or r else J=z and 9577842-(-49068)or 16620114-801632 end end end else if J<(251583+-621825)+((7562756-(-92698))-(-591536))then if J<6937172-(-688930)then if J<(64812+8381904)-(611750-(-303105))then W=H(441633-454938)S=p()e=p()g=G(9516134-(-526500+750968),{e;i;j;b})n=nil r={}b=K(b)t={}w=nil T=H(-90595-(-77316))B=nil w=527174+18428127326611 D=H(-390885+377620)P[e]=r Y=nil X=nil r=p()J=C[H(-860098+846783)]P[r]=g g={}P[S]=g g=C[T]M=P[S]l={[W]=M,[D]=B}n=H(-780393+767080)T=g(t,l)P[a]=T g=Q(2137583-(-700433),{S,e,R,i,j;r})e=K(e)r=K(r)j=K(j)z={}O=nil c=nil i=K(i)j=H(-124625+(730475+-619164))P[u]=g R=K(R)S=K(S)b=C[n]c=P[a]O=P[u]i=O(j,w)n=c[i]Y=b[n]n=N(6151943-(430857+(-756104+954499)),{a;u})u=K(u)b=Y(n)a=K(a)else J=true P[f[-1018554-(-1018555)]]=J J=C[H(259872+-273140)]z={}end else if J<7687335-50392 then S=H(((421330-741144)+1326296)+-1019782)V=H(-881924-(-299016+-569627))J=C[V]g=C[S]V=J(g)J=H(449022+-462306)C[J]=V J=11610118-(-793562)else J=A z=k J=-969676+14127952 end end else if J<8633595-402994 then if J<8321967-203113 then u=H((-76355+-184359)-(-657146-(-409725)))Y=316714+9325227 z=15471499-236899 d=u^Y J=z-d z=H(-766337-(-956995-(-203974)))d=J J=z/d z={J}J=C[H(-945437+932157)]else j=((233772-(854594-906291))+-710485)+425019 w=-564456-(-564521)i=p()P[i]=z X=H(809233+-822537)J=P[c]z=J(j,w)V=H(478396+(-573969-(749971-832263)))j=p()J=219354-219354 w=J r=o(-823356+(-267896+9805204),{})P[j]=z J=772265+(-817867-(-45602))z=C[X]R=J X={z(r)}J={s(X)}z=438935-438933 X=J J=X[z]z=H(-566853+553575)r=J J=C[z]e=P[Y]v=C[V]V=v(r)v=H(653066-666360)U=e(V,v)e={U()}z=J(s(e))e=p()P[e]=z U=P[j]J=14898702-(-56586-(152190-(-139231)))v=U U=-800522+800523 V=U z=568610-(617299+-48690)U=985884+-985884 g=V<U U=z-V end else if J<8556093-(-213525-181160)then u=H(31283+-44582)z=-3661+3145432 Y=10145746-359208 d=u^Y J=z-d d=J z=H(338695+-351967)J=z/d z={J}J=C[H(-925778+912477)]else c=H(-748307-(-768469+33459))R=H(187028-200314)n=z z=C[c]c=H(-705030+691732)J=z[c]c=p()O=H(934178+-947464)P[c]=J z=C[O]O=H(955608-968916)J=z[O]O=J w=C[R]i=w j=J J=w and(-557387+2496188)-((-86679-(-37612+-370860))-287948)or 16321053-182272 end end end end end else if J<((15836-(-878981))+(((253937+-1142636)+12811558)-783620))-(-409475)then if J<(-1148180-(-768516))+10617591 then if J<-588838+10464338 then if J<423458+9292311 then if J<8433516-(-1019629)then if J<9951339-716611 then z={}J=C[H(379607+-392896)]else d=P[f[783795-(-120173+903967)]]z=#d d=123156+((225566-422699)+73977)J=z==d J=J and(-984369-(-646162))+13982261 or 6263527-412413 end else O=H(((-770020-611809)-(-949519))+419006)a=H(216979-230260)z=H(((-543211-(-349696))+-554718)+734955)J=C[z]d=P[f[(459937-(76494+(7144-(-1192078-(677948+-1214402)))))-(-279329)]]i=G(-990859+9061792,{})Y=C[a]c=C[O]O={c(i)}c=-543128+543130 n={s(O)}b=n[c]a=Y(b)Y=H((812119+-1299337)+473924)u=d(a,Y)d={u()}z=J(s(d))d=z u=P[f[1021824+-1021819]]z=u J=u and-259543+10020945 or 942625+1577458 end else if J<(-370084+10878511)-684753 then Y=P[f[918491-918485]]u=Y==d z=u J=-552034+3072117 else g=-156678-(-156684)V=-29235+29236 J=P[c]v=J(V,g)J=H(((1715013-975276)+(-549909+464393))+-667505)g=H(((-940150+423059)-(-124403))+(-390676+770080))C[J]=v V=C[g]g=393520+(-486720+93202)J=V>g J=J and 221783+7409225 or-882929+10946776 end end else if J<(-881745+((1078050-(-43322))-395713))+10207208 then if J<578342+9322795 then z=H(266514+-279798)d=H(993481-1006781)J=C[z]z=C[d]d=H(34331+-47631)C[d]=J d=H(-1056509-(-1043225))C[d]=z d=P[f[-1033892-(-1033893)]]J=-385448+10355123 u=d()else J=true J=J and-896300+10771901 or 12153093-331117 end else if J<506614+9556092 then j=H(742867-756152)i=C[j]J=-541935+8687262 z=i else g=H(498794-512078)J=C[g]g=H(306448+-319748)C[g]=J J=12831927-428247 end end end else if J<(241395+429315)+10438366 then if J<10830246-39256 then if J<9714354-(-965643)then if J<-471447+11051956 then z={u}J=C[H((-874842+(402846-(-883022)))-424302)]else u=P[f[-383973+383975]]J=7069844-492027 Y=P[f[276558+-276555]]d=u==Y z=d end else T=H(634614-647911)S=p()M=-86051+((-686236+-236012)+1008300)t=-53770-(-53870)P[S]=U z=C[T]T=H(-534048-(-520750))J=z[T]T=-192060+192061 z=J(T,t)l=-2310+2565 T=p()t=884629+-884629 D=-126399+126401 P[T]=z J=P[c]z=J(t,l)B=H(-951820-(-938539))l=350040-350039 F=385377+(-1024872+649495)t=p()P[t]=z J=P[c]W=P[T]z=J(l,W)l=p()P[l]=z E=197251+((1420559-1021911)-595899)z=P[c]W=z(M,D)z=-462236-(-462237)J=W==z W=p()z=H(364551-377845)D=H(-586315+(-604785+1177818))P[W]=J A=C[B]I=P[c]L={I(E,F)}B=A(s(L))J=H(183648+(-135791-61169))A=H(-292348+(-545604+824670))k=B..A M=D..k J=r[J]D=H(630097-(802917-159516))J=J(r,z,M)M=p()P[M]=J z=C[D]k=q(15041415-149979,{c;S;j,Y;u;e,W,M,T;l;t,i})D={z(k)}J={s(D)}D=J J=P[W]J=J and 528662+(2603616-(-538005))or-85768+14495137 end else if J<10253979-(-614815)then A=J L=-935780-(-935781)I=D[L]L=false B=I==L k=B J=B and-1026856+6896931 or(((-307238+(-123265+802633))-850830)-292947)+(33569+8582509)else i=-45329+45584 u=Y J=P[f[-788335-(-788336)]]O=(520902+-898936)+378034 c=J(O,i)J=-615045+(593743+((((-145240+389886)-(-164038))-320897)+12559609))d[u]=c u=nil end end else if J<(((-1007143+12794582)-(-513590))-554625)-(-114770+-179550)then if J<-1027933+12484916 then J=12585211-(438174-323005)else z={}J=C[H(832748-846040)]end else if J<-277811+(12579222-(-27111))then J=2953019-(-1013515)else J=12633815-163773 end end end end else if J<694034+14283461 then if J<-68715+(13166395-(-684313))then if J<(305900+12311334)-(-541713)then if J<12381734-(-265981+-172191)then if J<(((((-1074648-(-439528-263194))+-342170)-(-718288))+13863)-812034)+13345443 then J=true J=J and-374887+10248131 or-981737+10183285 else c=not n Y=Y+b u=Y<=a u=c and u c=Y>=a c=n and c u=c or u c=10171824-(-275340-442508)J=u and c u=77656+6223459 J=J or u end else P[u]=z J=-896475+(2423528-(-133945))end else if J<13413839-(-342076)then Y=-264603+264788 u=P[f[(-282549+47486)+235065]]d=u*Y u=-523656+14809691190429 z=d+u d=559516+35184371529316 J=z%d P[f[155210-155208]]=J J=(-636684+(793433-67901))-(-215808)else J={}P[f[1032449-1032447]]=J z=P[f[-463891+(-286900-(-750794))]]a=z O=H(-311622-(257835+-556161))b=35184371969614-(-119218)z=u%b c=-816372+816627 P[f[1039660-1039656]]=z n=u%c j=-352957-(-352958)c=947188+-947186 b=n+c J=15925050-(-796856)P[f[291300+-291295]]=b c=C[O]O=H(-12350+-938)n=c[O]c=n(d)n=H(-731515+718241)O=344923-(-504975+849897)Y[u]=n w=j j=-890372-(-890372)R=w<j i=c n=-240156+(699568-459237)j=O-w end end else if J<14302805-361016 then if J<-530750+14374953 then J={}Y=P[f[-470345-(-773972-(-303618))]]a=Y Y=95001+-95000 d=J b=Y Y=510934-510934 u=812442+-812441 n=b<Y J=13488259-(940426-78261)Y=u-b else J=582376+(-26172+(-40207+15980814))end else if J<-774687+((15118505-(-773363))-676855)then A=P[u]k=A J=A and 3168686-((-902509-(-432103))-139999)or 487240+4679099 else u=P[f[(-675528-(1023643+-1909274))+-210102]]a=735336+-735335 b=899136-899134 Y=u(a,b)u=-107117+107118 d=Y==u z=d J=d and 7164077-586260 or 447674+10147818 end end end else if J<-430165+16524860 then if J<678961+14584809 then if J<(74986-918136)+15890355 then J=-725600+11304170 a=nil c=nil n=nil else U=U+V z=U<=v S=not g z=S and z S=U>=v S=g and S z=S or z S=-750265+11494833 J=z and S z=16584804-291789 J=J or z end else if J<-604463+16068433 then J=-294081+17015987 O=j V=H(53627-66923)v=C[V]V=H(-86237+72966)U=v[V]v=U(d,O)U=P[f[910863-(1648609-737752)]]V=U()e=v+V r=e+n e=57330-57074 X=r%e O=nil e=Y[u]n=X V=108979+-108978 v=n+V U=a[v]r=e..U Y[u]=r else J=P[f[(813408+(-367320+(-668818-(-941680))))+-718943]]J=J and 315837-(-465674)or 14722002-(((-258576+2181823)-359637)-652945)end end else if J<173035+16191477 then if J<-972106+17194457 then J=j J=i and-334930+8480257 or((1282979-649067)-241438)+9666400 z=i else v=P[u]J=v and 1039632+(98382+((((53638-246101)-4651)+637399)+3913491))or 2453032-(-207340)U=v end else if J<16442359-(563615+-803440)then g=#X e=-694665-(-694666)t=-33410-(-33411)r=Y(e,g)e=n(X,r)g=P[R]T=e-t r=nil S=c(T)T=(-715801-(-961223))+(-1151411-(-905989))g[e]=S S=#X g=S==T e=nil J=g and(8743089-(-570346+1477023))-(17934-(-454630))or 400255+(1014442+15082114)else X=not R j=j+w O=j<=i O=X and O X=j>=i X=R and X O=X or O X=272500+14994639 J=O and X O=15913934-900879 J=J or O end end end end end end end J=#y return s(z)end,{},function(C,H)local s=Y(H)local m=function(m,f,y)return J(C,{m,f;y},H,s)end return m end,(-313821+-583275)+897096,function(C,H)local s=Y(H)local m=function(m,f)return J(C,{m,f},H,s)end return m end,function(C,H)local s=Y(H)local m=function(...)return J(C,{...},H,s)end return m end,function(C,H)local s=Y(H)local m=function()return J(C,{},H,s)end return m end,function(C,H)local s=Y(H)local m=function(m,f,y,x)return J(C,{m;f,y;x},H,s)end return m end,function(C)for H=566394-566393,#C,-823321+823322 do d[C[H]]=d[C[H]]+(287761-(-39405-(-327165)))end if m then local J=m(true)local s=y(J)s[H(-533929-(-520624))],s[H(((((-355943-8775)-(-814485+719658))-389643)-(-481286))-(-164965))],s[H(-1035744-(-1022434))]=C,a,function()return 432085+(547408+-4118604)end return J else return f({},{[H(-60690-(334446-381853))]=a,[H(535242-(1243662-(587136+107979)))]=C,[H(964701+-978011)]=function()return(1832042-783943)+(-3819351-367859)end})end end return(b(-882843+5310073,{}))(s(z))end)(getfenv and getfenv()or _ENV,unpack or table[H(-152893-(-139608))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- Uni Combined v1 (Appearance Restore + Complete Unload Fix)
+
+local Players = game:GetService("Players")
+
+local RunService = game:GetService("RunService")
+
+local UserInputService = game:GetService("UserInputService")
+
+local Workspace = game:GetService("Workspace")
+
+local LocalPlayer = Players.LocalPlayer
+
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+
+local Environment = getgenv()
+
+local isMobile = UserInputService.TouchEnabled
+
+    and not UserInputService.MouseEnabled
+
+    and not UserInputService.KeyboardEnabled
+
+local Uni_GUI_NAMES = {
+
+    UniUI = true,
+
+    UniUIScroll = true,
+
+    UniUIPopup = true,
+
+}
+
+local function destroyUniInterface()
+
+    local guiParents = {}
+
+    local function addGUIParent(parent)
+
+        if not parent then return end
+
+        for _, existing in ipairs(guiParents) do
+
+            if existing == parent then return end
+
+        end
+
+        guiParents[#guiParents + 1] = parent
+
+    end
+
+    addGUIParent(PlayerGui)
+
+    pcall(function() addGUIParent(game:GetService("CoreGui")) end)
+
+    pcall(function()
+
+        if type(gethui) == "function" then addGUIParent(gethui()) end
+
+    end)
+
+    for _, parent in ipairs(guiParents) do
+
+        pcall(function()
+
+            for _, child in ipairs(parent:GetDescendants()) do
+
+                if Uni_GUI_NAMES[child.Name] then
+
+                    child:Destroy()
+
+                end
+
+            end
+
+            if Uni_GUI_NAMES[parent.Name] then
+
+                parent:Destroy()
+
+            end
+
+        end)
+
+    end
+
+end
+
+if type(Environment.UniCleanup) == "function" then
+
+    pcall(Environment.UniCleanup)
+
+end
+
+-- An older broken cleanup may have stopped its loops but left Fluent's GUI.
+
+destroyUniInterface()
+
+Environment.VortexLoaded = false
+
+local oldVortexGui = PlayerGui:FindFirstChild("VortexStudioUI")
+
+if oldVortexGui then
+
+    oldVortexGui:Destroy()
+
+end
+
+local FLUENT_URL = "https://github.com/StyearX/Fluent-modded/releases/download/1.5.5/FluentPro"
+
+local function loadFluent()
+
+    assert(type(loadstring) == "function", "This environment does not support loadstring.")
+
+    local requestOk, source = pcall(function()
+
+        return game:HttpGet(FLUENT_URL)
+
+    end)
+
+    assert(requestOk and type(source) == "string" and #source > 0, "Failed to download FluentPro.")
+
+    local compileOk, library = pcall(function()
+
+        return loadstring(source)()
+
+    end)
+
+    assert(compileOk and library, "Failed to start FluentPro.")
+
+    return library
+
+end
+
+local Fluent = loadFluent()
+
+Fluent:SetErrorHandler(function(message, fullError)
+
+    warn("[Uni] " .. tostring(message))
+
+    if fullError then
+
+        warn(fullError)
+
+    end
+
+end)
+
+local DEFAULT_CONFIG = {
+
+    Aimbot = true,
+
+    TeamCheck = true,
+
+    Prediction = true,
+
+    Smoothness = 0.3,
+
+    FOV = 200,
+
+    AimPart = "Head",
+
+    AimKey = "MouseRight",
+
+    ShowFOV = true,
+
+    FOVColor = Color3.fromRGB(255, 50, 50),
+
+    ESP = true,
+
+    ESPTeamHide = false,
+
+    ESPHighlight = true,
+
+    ESPBox = true,
+
+    ESPTracers = true,
+
+    ESPSkeleton = true,
+
+    ESPNames = true,
+
+    EnemyColor = Color3.fromRGB(255, 50, 50),
+
+    TeamColor = Color3.fromRGB(55, 220, 149),
+
+}
+
+local Config = {}
+
+for key, value in pairs(DEFAULT_CONFIG) do
+
+    Config[key] = value
+
+end
+
+Environment.UniConfig = Config
+
+Environment.UniLoaded = true
+
+local runtimeAlive = true
+
+local Window
+
+local CUSTOM_THEME_NAME = "Uni Custom"
+
+local DEFAULT_ACCENT = Color3.fromRGB(139, 92, 246)
+
+local Appearance = {
+
+    Accent = DEFAULT_ACCENT,
+
+    Background = "",
+
+    BackgroundTransparency = 0.18,
+
+    ShowBackground = true,
+
+    Animated = true,
+
+    Acrylic = true,
+
+    Transparent = true,
+
+}
+
+local BackgroundPresets = {
+
+    ["None"] = "",
+
+    ["Dark Glass"] = "rbxassetid://134736124666311",
+
+    ["Red"] = "rbxassetid://121343473918667",
+
+    ["Cyan"] = "rbxassetid://95656189244173",
+
+    ["Gold"] = "rbxassetid://107795771598485",
+
+    ["Floral"] = "rbxassetid://133541508207801",
+
+    ["Purple Galaxy"] = "rbxassetid://136310484943077",
+
+}
+
+local BackgroundNames = {
+
+    "None",
+
+    "Dark Glass",
+
+    "Red",
+
+    "Cyan",
+
+    "Gold",
+
+    "Floral",
+
+    "Purple Galaxy",
+
+}
+
+local function mix(from, to, amount)
+
+    return from:Lerp(to, amount)
+
+end
+
+local function buildCustomTheme()
+
+    local accent = Appearance.Accent
+
+    local black = Color3.fromRGB(5, 5, 10)
+
+    local dark = Color3.fromRGB(10, 9, 18)
+
+    local white = Color3.fromRGB(245, 242, 255)
+
+    local softAccent = mix(accent, white, 0.22)
+
+    local deepAccent = mix(black, accent, 0.34)
+
+    local mediumAccent = mix(black, accent, 0.56)
+
+    return {
+
+        Accent = accent,
+
+        AcrylicMain = dark,
+
+        AcrylicBorder = mediumAccent,
+
+        AcrylicGradient = ColorSequence.new({
+
+            ColorSequenceKeypoint.new(0, mix(dark, accent, 0.24)),
+
+            ColorSequenceKeypoint.new(0.5, dark),
+
+            ColorSequenceKeypoint.new(1, black),
+
+        }),
+
+        AcrylicNoise = 0.92,
+
+        TitleBarLine = mediumAccent,
+
+        Tab = deepAccent,
+
+        Element = mix(dark, accent, 0.12),
+
+        ElementBorder = deepAccent,
+
+        InElementBorder = mediumAccent,
+
+        ElementTransparency = 0.88,
+
+        ElementBorderThickness = 1,
+
+        ToggleSlider = deepAccent,
+
+        ToggleToggled = accent,
+
+        SliderRail = deepAccent,
+
+        CheckboxUnchecked = deepAccent,
+
+        CheckboxChecked = accent,
+
+        CheckboxCheck = white,
+
+        ProgressBarRail = deepAccent,
+
+        ProgressBarFill = accent,
+
+        DropdownFrame = mix(dark, accent, 0.16),
+
+        DropdownHolder = black,
+
+        DropdownBorder = mediumAccent,
+
+        DropdownBorderThickness = 1,
+
+        DropdownOption = mix(dark, accent, 0.20),
+
+        Keybind = mix(dark, accent, 0.15),
+
+        Input = mix(dark, accent, 0.12),
+
+        InputFocused = black,
+
+        InputIndicator = softAccent,
+
+        InputIndicatorFocus = white,
+
+        Dialog = dark,
+
+        DialogHolder = black,
+
+        DialogHolderLine = mediumAccent,
+
+        DialogButton = mix(dark, accent, 0.14),
+
+        DialogButtonBorder = mediumAccent,
+
+        DialogBorder = deepAccent,
+
+        DialogInput = mix(dark, accent, 0.12),
+
+        DialogInputLine = softAccent,
+
+        Text = white,
+
+        SubText = mix(Color3.fromRGB(155, 150, 175), accent, 0.22),
+
+        Hover = accent,
+
+        HoverChange = 0.06,
+
+        IconColor = softAccent,
+
+        IconSize = 17,
+
+        Background = Appearance.Background ~= "" and Appearance.Background or nil,
+
+        BackgroundTransparency = Appearance.BackgroundTransparency,
+
+        ViewportBackground = black,
+
+        ViewportBackgroundImages = Appearance.ShowBackground,
+
+        DropdownOutsideWindowBackground = black,
+
+        DropdownOutsideWindowBackgroundImages = Appearance.ShowBackground,
+
+        ShineEnabled = Appearance.Animated,
+
+        Shine = {
+
+            Speed = 0.45,
+
+            RotationSpeed = 22,
+
+            ColorSequence = ColorSequence.new({
+
+                ColorSequenceKeypoint.new(0, deepAccent),
+
+                ColorSequenceKeypoint.new(0.5, softAccent),
+
+                ColorSequenceKeypoint.new(1, deepAccent),
+
+            }),
+
+        },
+
+        StrokeShine = Appearance.Animated,
+
+        StrokeDark = deepAccent,
+
+        ButtonGradient = {
+
+            Background = ColorSequence.new({
+
+                ColorSequenceKeypoint.new(0, mix(dark, accent, 0.28)),
+
+                ColorSequenceKeypoint.new(1, black),
+
+            }),
+
+            Stroke = ColorSequence.new({
+
+                ColorSequenceKeypoint.new(0, mediumAccent),
+
+                ColorSequenceKeypoint.new(0.5, softAccent),
+
+                ColorSequenceKeypoint.new(1, mediumAccent),
+
+            }),
+
+        },
+
+        ThemeAccentColors = { accent },
+
+    }
+
+end
+
+Fluent:RegisterCustomTheme(CUSTOM_THEME_NAME, buildCustomTheme())
+
+local function updateBackgroundVisibility()
+
+    task.defer(function()
+
+        if not runtimeAlive then return end
+
+        local acrylicPaint = Window and Window.AcrylicPaint
+
+        local frame = acrylicPaint and acrylicPaint.Frame
+
+        local background = frame and frame:FindFirstChild("__ThemeBG")
+
+        if background then
+
+            background.Visible = Appearance.ShowBackground and Appearance.Background ~= ""
+
+        end
+
+    end)
+
+end
+
+local function applyCustomTheme()
+
+    if not runtimeAlive or not Fluent then return end
+
+    Fluent:RegisterCustomTheme(CUSTOM_THEME_NAME, buildCustomTheme())
+
+    if Window then
+
+        Fluent:SetTheme(CUSTOM_THEME_NAME)
+
+        updateBackgroundVisibility()
+
+    end
+
+end
+
+local function normalizeAssetId(value)
+
+    local rawValue = tostring(value or "")
+
+    if rawValue == "" then return "" end
+
+    local assetId = rawValue:match("%d+")
+
+    return assetId and ("rbxassetid://" .. assetId) or nil
+
+end
+
+local function makeDropdownClosable(dropdown)
+
+    if not dropdown or not dropdown.Frame or not dropdown.Open or not dropdown.Close then return end
+
+    local closeOverlay = Instance.new("TextButton")
+
+    closeOverlay.Name = "__UniDropdownCloseFix"
+
+    closeOverlay.Text = ""
+
+    closeOverlay.AutoButtonColor = false
+
+    closeOverlay.BackgroundTransparency = 1
+
+    closeOverlay.Size = UDim2.fromOffset(160, 30)
+
+    closeOverlay.Position = UDim2.new(1, -10, 0.5, 0)
+
+    closeOverlay.AnchorPoint = Vector2.new(1, 0.5)
+
+    closeOverlay.ZIndex = 100
+
+    closeOverlay.Visible = false
+
+    closeOverlay.Parent = dropdown.Frame
+
+    local originalOpen = dropdown.Open
+
+    local originalClose = dropdown.Close
+
+    dropdown.Open = function(self, ...) originalOpen(self, ...); closeOverlay.Visible = true end
+
+    dropdown.Close = function(self, ...) originalClose(self, ...); closeOverlay.Visible = false end
+
+    closeOverlay.MouseButton1Click:Connect(function() dropdown:Close() end)
+
+end
+
+-- ============================================================
+
+-- AIMBOT & TEAM CHECK
+
+-- ============================================================
+
+assert(Drawing and type(Drawing.new) == "function", "This environment does not support the Drawing API.")
+
+local FOVCircle = Drawing.new("Circle")
+
+FOVCircle.Thickness = 2
+
+FOVCircle.Visible = false
+
+FOVCircle.Color = Config.FOVColor
+
+FOVCircle.Transparency = 0.5
+
+FOVCircle.Filled = false
+
+local function isSameTeam(player)
+
+    if not player or player == LocalPlayer then
+
+        return true
+
+    end
+
+    if LocalPlayer.Team and player.Team and LocalPlayer.Team == player.Team then
+
+        return true
+
+    end
+
+    local success1, lAttr = pcall(function() return LocalPlayer:GetAttribute("Team") or LocalPlayer:GetAttribute("Faction") end)
+
+    local success2, pAttr = pcall(function() return player:GetAttribute("Team") or player:GetAttribute("Faction") end)
+
+    if success1 and success2 and lAttr ~= nil and pAttr ~= nil and lAttr == pAttr then
+
+        return true
+
+    end
+
+    local char = player.Character
+
+    local localChar = LocalPlayer.Character
+
+    if char and localChar then
+
+        if char.Parent and localChar.Parent and char.Parent == localChar.Parent and char.Parent ~= Workspace then
+
+            return true
+
+        end
+
+    end
+
+    return false
+
+end
+
+local function getTarget()
+
+    local camera = Workspace.CurrentCamera
+
+    if not camera then return nil end
+
+    local closestPart = nil
+
+    local closestDistance = Config.FOV
+
+    local screenCenter = camera.ViewportSize / 2
+
+    for _, player in ipairs(Players:GetPlayers()) do
+
+        local character = player.Character
+
+        local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+
+        local canTarget = player ~= LocalPlayer
+
+            and character ~= nil
+
+            and humanoid ~= nil
+
+            and humanoid.Health > 0
+
+            and not (Config.TeamCheck and isSameTeam(player))
+
+        if canTarget then
+
+            local part = nil
+
+            pcall(function()
+
+                part = character:FindFirstChild(Config.AimPart)
+
+                    or character:FindFirstChild("Head")
+
+                    or character:FindFirstChild("UpperTorso")
+
+                    or character:FindFirstChild("HumanoidRootPart")
+
+            end)
+
+            if part then
+
+                local targetPosition = part.Position
+
+                local rootPart = character:FindFirstChild("HumanoidRootPart")
+
+                if Config.Prediction and rootPart then
+
+                    targetPosition = targetPosition + (rootPart.AssemblyLinearVelocity * 0.08)
+
+                end
+
+                local screenPosition, onScreen = camera:WorldToViewportPoint(targetPosition)
+
+                if onScreen then
+
+                    local distance = (Vector2.new(screenPosition.X, screenPosition.Y) - screenCenter).Magnitude
+
+                    if distance < closestDistance then
+
+                        closestDistance = distance
+
+                        closestPart = part
+
+                    end
+
+                end
+
+            end
+
+        end
+
+    end
+
+    return closestPart
+
+end
+
+local function isAimKeyDown()
+
+    local keyName = tostring(Config.AimKey or "")
+
+    if keyName == "MouseRight" or keyName == "MouseButton2" then
+
+        return UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2)
+
+    elseif keyName == "MouseLeft" or keyName == "MouseButton1" then
+
+        return UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1)
+
+    end
+
+    local keyCode = Enum.KeyCode[keyName]
+
+    if keyCode and keyCode ~= Enum.KeyCode.Unknown then
+
+        return UserInputService:IsKeyDown(keyCode)
+
+    end
+
+    return false
+
+end
+
+-- ============================================================
+
+-- ESP MODULE
+
+-- ============================================================
+
+local ESPObjects = {}
+
+local function createDrawingLine()
+
+    local line = Drawing.new("Line")
+
+    line.Thickness = 1.5
+
+    line.Visible = false
+
+    return line
+
+end
+
+local function hideLines(lines)
+
+    for _, line in ipairs(lines) do line.Visible = false end
+
+end
+
+local function hideESPData(data)
+
+    if data.Highlight then data.Highlight.Enabled = false end
+
+    if data.Label then data.Label.Visible = false end
+
+    hideLines(data.BoxLines)
+
+    data.TracerLine.Visible = false
+
+    hideLines(data.SkeletonLines)
+
+end
+
+local function removeDrawing(object)
+
+    if object then
+
+        pcall(function() object.Visible = false end)
+
+        pcall(function() object:Remove() end)
+
+    end
+
+end
+
+local function disconnectConnection(connection)
+
+    if connection then
+
+        pcall(function() connection:Disconnect() end)
+
+    end
+
+end
+
+local function destroyInstance(instance)
+
+    if instance then
+
+        pcall(function() instance:Destroy() end)
+
+    end
+
+end
+
+local function destroyCharacterVisuals(data)
+
+    destroyInstance(data.Highlight)
+
+    destroyInstance(data.Billboard)
+
+    data.Highlight = nil
+
+    data.Billboard = nil
+
+    data.Label = nil
+
+end
+
+local function setupCharacterVisuals(data, character)
+
+    if not runtimeAlive or not character or not character.Parent then return end
+
+    destroyCharacterVisuals(data)
+
+    local highlight = Instance.new("Highlight")
+
+    highlight.Name = "Uni_ESPHighlight"
+
+    highlight.Adornee = character
+
+    highlight.FillTransparency = 0.7
+
+    highlight.OutlineTransparency = 0.2
+
+    highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+
+    highlight.Enabled = false
+
+    highlight.Parent = character
+
+    data.Highlight = highlight
+
+    local billboard = Instance.new("BillboardGui")
+
+    billboard.Name = "Uni_ESPName"
+
+    billboard.Size = UDim2.new(0, 200, 0, 50)
+
+    billboard.AlwaysOnTop = true
+
+    billboard.ExtentsOffset = Vector3.new(0, 2.5, 0)
+
+    billboard.Enabled = true
+
+    billboard.Parent = character
+
+    -- Store this reference before WaitForChild yields. This lets Unload destroy
+
+    -- the BillboardGui even if the character has not received its Head yet.
+
+    data.Billboard = billboard
+
+    local head = character:FindFirstChild("Head") or character:WaitForChild("Head", 2)
+
+    -- A delayed setup task may resume after Unload. Never recreate ESP then.
+
+    if not runtimeAlive or data.Billboard ~= billboard or not billboard.Parent then
+
+        destroyInstance(billboard)
+
+        if data.Billboard == billboard then data.Billboard = nil end
+
+        return
+
+    end
+
+    if head then billboard.Adornee = head end
+
+    local label = Instance.new("TextLabel")
+
+    label.Size = UDim2.new(1, 0, 1, 0)
+
+    label.BackgroundTransparency = 1
+
+    label.TextColor3 = Color3.new(1, 1, 1)
+
+    label.TextStrokeTransparency = 0
+
+    label.TextSize = 13
+
+    label.Font = Enum.Font.SourceSansBold
+
+    label.Visible = false
+
+    label.Parent = billboard
+
+    data.Label = label
+
+end
+
+local function connectSkeletonPart(camera, data, firstPart, secondPart, lineIndex, color)
+
+    local line = data.SkeletonLines[lineIndex]
+
+    if not line or not firstPart or not secondPart then return end
+
+    local firstPosition, firstVisible = camera:WorldToViewportPoint(firstPart.Position)
+
+    local secondPosition, secondVisible = camera:WorldToViewportPoint(secondPart.Position)
+
+    if firstVisible or secondVisible then
+
+        line.From = Vector2.new(firstPosition.X, firstPosition.Y)
+
+        line.To = Vector2.new(secondPosition.X, secondPosition.Y)
+
+        line.Color = color
+
+        line.Visible = true
+
+    end
+
+end
+
+local function updateESP(player, data)
+
+    if not runtimeAlive or not Config.ESP then
+
+        hideESPData(data)
+
+        return
+
+    end
+
+    local teammate = isSameTeam(player)
+
+    if Config.ESPTeamHide and teammate then
+
+        hideESPData(data)
+
+        return
+
+    end
+
+    local camera = Workspace.CurrentCamera
+
+    local character = player.Character
+
+    local localCharacter = LocalPlayer.Character
+
+    local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+
+    local rootPart = character and character:FindFirstChild("HumanoidRootPart")
+
+    local localRootPart = localCharacter and localCharacter:FindFirstChild("HumanoidRootPart")
+
+    if not camera or not character or not humanoid or humanoid.Health <= 0 or not rootPart or not localRootPart then
+
+        hideESPData(data)
+
+        return
+
+    end
+
+    local currentColor = teammate and Config.TeamColor or Config.EnemyColor
+
+    local distance = math.floor((rootPart.Position - localRootPart.Position).Magnitude)
+
+    if data.Highlight then
+
+        data.Highlight.Enabled = Config.ESPHighlight
+
+        data.Highlight.FillColor = currentColor
+
+        data.Highlight.OutlineColor = currentColor
+
+    end
+
+    if data.Label then
+
+        data.Label.Visible = Config.ESPNames
+
+        data.Label.Text = player.Name .. " [" .. distance .. "m]"
+
+        data.Label.TextColor3 = currentColor
+
+    end
+
+    hideLines(data.BoxLines)
+
+    if Config.ESPBox then
+
+        local size = character:GetExtentsSize()
+
+        local topWorld = (rootPart.CFrame * CFrame.new(0, size.Y / 2 + 0.5, 0)).Position
+
+        local bottomWorld = (rootPart.CFrame * CFrame.new(0, -(size.Y / 2 + 0.5), 0)).Position
+
+        local topPosition, topVisible = camera:WorldToViewportPoint(topWorld)
+
+        local bottomPosition, bottomVisible = camera:WorldToViewportPoint(bottomWorld)
+
+        if topVisible or bottomVisible then
+
+            local height = math.abs(topPosition.Y - bottomPosition.Y)
+
+            local width = height / 2
+
+            local boxX = topPosition.X - width / 2
+
+            local boxY = topPosition.Y
+
+            local lines = data.BoxLines
+
+            lines[1].From = Vector2.new(boxX, boxY); lines[1].To = Vector2.new(boxX + width, boxY)
+
+            lines[2].From = Vector2.new(boxX, boxY + height); lines[2].To = Vector2.new(boxX + width, boxY + height)
+
+            lines[3].From = Vector2.new(boxX, boxY); lines[3].To = Vector2.new(boxX, boxY + height)
+
+            lines[4].From = Vector2.new(boxX + width, boxY); lines[4].To = Vector2.new(boxX + width, boxY + height)
+
+            for _, line in ipairs(lines) do
+
+                line.Color = currentColor
+
+                line.Visible = true
+
+            end
+
+        end
+
+    end
+
+    data.TracerLine.Visible = false
+
+    if Config.ESPTracers then
+
+        local screenPosition, onScreen = camera:WorldToViewportPoint(rootPart.Position)
+
+        if onScreen then
+
+            data.TracerLine.From = Vector2.new(camera.ViewportSize.X / 2, camera.ViewportSize.Y)
+
+            data.TracerLine.To = Vector2.new(screenPosition.X, screenPosition.Y)
+
+            data.TracerLine.Color = currentColor
+
+            data.TracerLine.Visible = true
+
+        end
+
+    end
+
+    hideLines(data.SkeletonLines)
+
+    if Config.ESPSkeleton then
+
+        pcall(function()
+
+            local head = character:FindFirstChild("Head")
+
+            local torso = character:FindFirstChild("UpperTorso") or character:FindFirstChild("Torso") or character:FindFirstChild("LowerTorso")
+
+            local leftArm = character:FindFirstChild("LeftUpperArm") or character:FindFirstChild("Left Arm")
+
+            local rightArm = character:FindFirstChild("RightUpperArm") or character:FindFirstChild("Right Arm")
+
+            local leftLeg = character:FindFirstChild("LeftUpperLeg") or character:FindFirstChild("Left Leg")
+
+            local rightLeg = character:FindFirstChild("RightUpperLeg") or character:FindFirstChild("Right Leg")
+
+            connectSkeletonPart(camera, data, head, torso, 1, currentColor)
+
+            connectSkeletonPart(camera, data, torso, leftArm, 2, currentColor)
+
+            connectSkeletonPart(camera, data, torso, rightArm, 3, currentColor)
+
+            connectSkeletonPart(camera, data, torso, leftLeg, 4, currentColor)
+
+            connectSkeletonPart(camera, data, torso, rightLeg, 5, currentColor)
+
+        end)
+
+    end
+
+end
+
+local function createESP(player)
+
+    if player == LocalPlayer or ESPObjects[player] then return end
+
+    local data = {
+
+        Highlight = nil, Billboard = nil, Label = nil,
+
+        BoxLines = { createDrawingLine(), createDrawingLine(), createDrawingLine(), createDrawingLine() },
+
+        TracerLine = createDrawingLine(),
+
+        SkeletonLines = { createDrawingLine(), createDrawingLine(), createDrawingLine(), createDrawingLine(), createDrawingLine() },
+
+        CharacterConnection = nil, RenderConnection = nil,
+
+    }
+
+    ESPObjects[player] = data
+
+    data.CharacterConnection = player.CharacterAdded:Connect(function(character)
+
+        task.spawn(setupCharacterVisuals, data, character)
+
+    end)
+
+    data.RenderConnection = RunService.RenderStepped:Connect(function()
+
+        updateESP(player, data)
+
+    end)
+
+    if player.Character then
+
+        task.spawn(setupCharacterVisuals, data, player.Character)
+
+    end
+
+end
+
+local function destroyESP(player)
+
+    local data = ESPObjects[player]
+
+    if not data then return end
+
+    disconnectConnection(data.CharacterConnection)
+
+    disconnectConnection(data.RenderConnection)
+
+    data.CharacterConnection = nil
+
+    data.RenderConnection = nil
+
+    destroyCharacterVisuals(data)
+
+    for _, line in ipairs(data.BoxLines) do removeDrawing(line) end
+
+    removeDrawing(data.TracerLine)
+
+    for _, line in ipairs(data.SkeletonLines) do removeDrawing(line) end
+
+    ESPObjects[player] = nil
+
+end
+
+for _, player in ipairs(Players:GetPlayers()) do createESP(player) end
+
+local PlayerAddedConnection = Players.PlayerAdded:Connect(createESP)
+
+local PlayerRemovingConnection = Players.PlayerRemoving:Connect(destroyESP)
+
+local AimRenderConnection = RunService.RenderStepped:Connect(function()
+
+    if not runtimeAlive then return end
+
+    local camera = Workspace.CurrentCamera
+
+    if not camera then
+
+        FOVCircle.Visible = false
+
+        return
+
+    end
+
+    FOVCircle.Visible = Config.ShowFOV and Config.Aimbot
+
+    FOVCircle.Radius = Config.FOV
+
+    FOVCircle.Position = camera.ViewportSize / 2
+
+    FOVCircle.Color = Config.FOVColor
+
+    if Config.Aimbot and isAimKeyDown() then
+
+        local target = getTarget()
+
+        if target then
+
+            local targetPosition = target.Position
+
+            local rootPart = target.Parent and target.Parent:FindFirstChild("HumanoidRootPart")
+
+            if Config.Prediction and rootPart then
+
+                targetPosition = targetPosition + (rootPart.AssemblyLinearVelocity * 0.08)
+
+            end
+
+            local screenPosition = camera:WorldToViewportPoint(targetPosition)
+
+            local screenCenter = camera.ViewportSize / 2
+
+            local moveX = (screenPosition.X - screenCenter.X) * Config.Smoothness
+
+            local moveY = (screenPosition.Y - screenCenter.Y) * Config.Smoothness
+
+            if type(mousemoverel) == "function" then
+
+                mousemoverel(moveX, moveY)
+
+            end
+
+        end
+
+    end
+
+end)
+
+local function unloadUni()
+
+    if not runtimeAlive then return end
+
+    -- Stop every callback before destroying any visual resource.
+
+    runtimeAlive = false
+
+    Environment.UniLoaded = false
+
+    Config.Aimbot = false
+
+    Config.ShowFOV = false
+
+    Config.ESP = false
+
+    disconnectConnection(AimRenderConnection)
+
+    disconnectConnection(PlayerAddedConnection)
+
+    disconnectConnection(PlayerRemovingConnection)
+
+    AimRenderConnection = nil
+
+    PlayerAddedConnection = nil
+
+    PlayerRemovingConnection = nil
+
+    removeDrawing(FOVCircle)
+
+    FOVCircle = nil
+
+    -- Copy the keys first so removing entries cannot skip a player.
+
+    local trackedPlayers = {}
+
+    for player in pairs(ESPObjects) do
+
+        trackedPlayers[#trackedPlayers + 1] = player
+
+    end
+
+    for _, player in ipairs(trackedPlayers) do
+
+        destroyESP(player)
+
+    end
+
+    -- Remove any orphaned instances left by a setup task that yielded.
+
+    pcall(function()
+
+        for _, object in ipairs(Workspace:GetDescendants()) do
+
+            if object.Name == "Uni_ESPHighlight" or object.Name == "Uni_ESPName" then
+
+                object:Destroy()
+
+            end
+
+        end
+
+    end)
+
+    -- FluentPro 1.5.5 exposes Destroy(), not Unload().
+
+    pcall(function()
+
+        if Fluent and type(Fluent.Destroy) == "function" then
+
+            Fluent:Destroy()
+
+        end
+
+    end)
+
+    -- Hard fallback for partial library cleanup and executor-specific GUI parents.
+
+    if Fluent then
+
+        destroyInstance(Fluent.PopupGUI)
+
+        destroyInstance(Fluent.ScrollGUI)
+
+        destroyInstance(Fluent.GUI)
+
+    end
+
+    if Window then
+
+        destroyInstance(Window.Root)
+
+    end
+
+    destroyUniInterface()
+
+    if Environment.UniConfig == Config then
+
+        Environment.UniConfig = nil
+
+    end
+
+    if Environment.UniCleanup == unloadUni then
+
+        Environment.UniCleanup = nil
+
+    end
+
+    Window = nil
+
+    Fluent = nil
+
+end
+
+Environment.UniCleanup = unloadUni
+
+-- ============================================================
+
+-- GUI INTERFACE (FluentPro)
+
+-- ============================================================
+
+Window = Fluent:CreateWindow({
+
+    Title = "Uni",
+
+    SubTitle = "Aimbot + ESP",
+
+    Version = "v1",
+
+    Tags = { { Text = " ONLINE ", Color = Color3.fromRGB(55, 220, 149) } },
+
+    ScreenGuiName = "UniUI",
+
+    TabWidth = isMobile and 130 or 165,
+
+    Size = isMobile and UDim2.fromOffset(470, 500) or UDim2.fromOffset(650, 560),
+
+    Acrylic = true,
+
+    Theme = CUSTOM_THEME_NAME,
+
+    Animated = true,
+
+    Search = false,
+
+    UserInfoTop = true,
+
+    UserInfoTitle = LocalPlayer.DisplayName,
+
+    UserInfoSubtitle = "@" .. LocalPlayer.Name,
+
+    UserInfoColor = DEFAULT_ACCENT,
+
+    MinimizeKey = Enum.KeyCode.RightShift,
+
+})
+
+local MainTab = Window:AddTab({ Title = "Home", Icon = "solar/home-2-bold" })
+
+local AimbotTab = Window:AddTab({ Title = "Aimbot", Icon = "solar/target-bold" })
+
+local ESPTab = Window:AddTab({ Title = "ESP", Icon = "solar/eye-bold" })
+
+local AppearanceTab = Window:AddTab({ Title = "Appearance", Icon = "solar/palette-bold" })
+
+local SettingsTab = Window:AddTab({ Title = "Settings", Icon = "solar/settings-bold" })
+
+local Controls = {}
+
+-- HOME TAB - Changelog & Feedback Info (All in English)
+
+MainTab:AddParagraph({ 
+
+    Title = "Welcome to Uni v1", 
+
+    Content = "Advanced Combat Script optimized for performance and stability." 
+
+})
+
+MainTab:AddParagraph({ 
+
+    Title = "Changelog", 
+
+    Content = "• v1: Restored all Appearance controls and UI customization.\n• v2.2.2: Fixed complete cleanup and Fluent window destruction.\n• v2.2.1: Restored the editable menu minimize key.\n• v2.2: Added 'Hide Team ESP' toggle option.\n• v2.2: Redesigned Home tab with Changelog and Feedback info.\n• v2.1: Fixed Team Check for tactical games without standard Roblox teams.\n• v2.0: Major stability overhaul and performance boost." 
+
+})
+
+MainTab:AddParagraph({ 
+
+    Title = "Feedback & Suggestions", 
+
+    Content = "If you encounter any bugs or have ideas for new features/options to add, please leave a comment or report it!" 
+
+})
+
+local MenuSection = MainTab:AddSection("Menu Controls", "solar/keyboard-bold")
+
+Controls.MinimizeKeybind = MenuSection:AddKeybind("UniMinimizeKey", {
+    Title = "Minimize Key",
+    Description = "Click the key field and press a new key to hide or restore the menu.",
+    Icon = "solar/keyboard-bold",
+    Default = "RightShift",
+})
+
+-- FluentPro now reads the current value from this control. After the user
+-- selects another key, the previous key stops toggling the menu immediately.
+Fluent.MinimizeKeybind = Controls.MinimizeKeybind
+
+-- Aimbot Tab
+
+local AimMainSection = AimbotTab:AddSection("Main Settings", "solar/target-bold")
+
+Controls.Aimbot = AimMainSection:AddToggle("UniAimbot", { Title = "Aimbot", Default = DEFAULT_CONFIG.Aimbot, Callback = function(v) Config.Aimbot = v end })
+
+Controls.TeamCheck = AimMainSection:AddToggle("UniTeamCheck", { Title = "Team Check", Default = DEFAULT_CONFIG.TeamCheck, Callback = function(v) Config.TeamCheck = v end })
+
+Controls.Prediction = AimMainSection:AddToggle("UniPrediction", { Title = "Movement Prediction", Default = DEFAULT_CONFIG.Prediction, Callback = function(v) Config.Prediction = v end })
+
+Controls.AimKey = AimMainSection:AddKeybind("UniAimKey", { Title = "Aim Key", Default = DEFAULT_CONFIG.AimKey })
+
+Controls.AimKey:OnChanged(function() Config.AimKey = Controls.AimKey.Value end)
+
+local AimTuningSection = AimbotTab:AddSection("Targeting & FOV", "solar/tuning-square-2-bold")
+
+Controls.AimPart = AimTuningSection:AddDropdown("UniAimPart", { Title = "Aim Part", Values = { "Head", "UpperTorso", "HumanoidRootPart" }, Default = DEFAULT_CONFIG.AimPart, Multi = false, Callback = function(v) Config.AimPart = v end })
+
+makeDropdownClosable(Controls.AimPart)
+
+Controls.FOV = AimTuningSection:AddSlider("UniFOV", { Title = "FOV", Min = 50, Max = 500, Default = DEFAULT_CONFIG.FOV, Rounding = 0, Callback = function(v) Config.FOV = v end })
+
+Controls.Smoothness = AimTuningSection:AddSlider("UniSmoothness", { Title = "Aim Speed", Min = 1, Max = 10, Default = 3, Rounding = 0, Callback = function(v) Config.Smoothness = v / 10 end })
+
+Controls.ShowFOV = AimTuningSection:AddToggle("UniShowFOV", { Title = "Show FOV Circle", Default = DEFAULT_CONFIG.ShowFOV, Callback = function(v) Config.ShowFOV = v end })
+
+Controls.FOVColor = AimTuningSection:AddColorpicker("UniFOVColor", { Title = "FOV Circle Color", Default = DEFAULT_CONFIG.FOVColor, Callback = function(c) Config.FOVColor = c; FOVCircle.Color = c end })
+
+-- ESP Tab
+
+local ESPMainSection = ESPTab:AddSection("ESP Elements", "solar/eye-bold")
+
+Controls.ESP = ESPMainSection:AddToggle("UniESP", { Title = "ESP Enabled", Default = DEFAULT_CONFIG.ESP, Callback = function(v) Config.ESP = v end })
+
+Controls.ESPTeamHide = ESPMainSection:AddToggle("UniESPTeamHide", { Title = "Hide Team ESP", Default = DEFAULT_CONFIG.ESPTeamHide, Callback = function(v) Config.ESPTeamHide = v end })
+
+Controls.ESPHighlight = ESPMainSection:AddToggle("UniESPHighlight", { Title = "Character Highlight", Default = DEFAULT_CONFIG.ESPHighlight, Callback = function(v) Config.ESPHighlight = v end })
+
+Controls.ESPBox = ESPMainSection:AddToggle("UniESPBox", { Title = "Box ESP", Default = DEFAULT_CONFIG.ESPBox, Callback = function(v) Config.ESPBox = v end })
+
+Controls.ESPTracers = ESPMainSection:AddToggle("UniESPTracers", { Title = "Tracers", Default = DEFAULT_CONFIG.ESPTracers, Callback = function(v) Config.ESPTracers = v end })
+
+Controls.ESPSkeleton = ESPMainSection:AddToggle("UniESPSkeleton", { Title = "Skeleton", Default = DEFAULT_CONFIG.ESPSkeleton, Callback = function(v) Config.ESPSkeleton = v end })
+
+Controls.ESPNames = ESPMainSection:AddToggle("Names & Distance", { Title = "Names & Distance", Default = DEFAULT_CONFIG.ESPNames, Callback = function(v) Config.ESPNames = v end })
+
+local ESPColorSection = ESPTab:AddSection("ESP Colors", "solar/palette-bold")
+
+Controls.EnemyColor = ESPColorSection:AddColorpicker("UniEnemyColor", { Title = "Enemy Color", Default = DEFAULT_CONFIG.EnemyColor, Callback = function(c) Config.EnemyColor = c end })
+
+Controls.TeamColor = ESPColorSection:AddColorpicker("UniTeamColor", { Title = "Team Color", Default = DEFAULT_CONFIG.TeamColor, Callback = function(c) Config.TeamColor = c end })
+
+-- Appearance Tab
+
+local ThemeSection = AppearanceTab:AddSection("Colors & Theme", "solar/palette-bold")
+
+Controls.Theme = ThemeSection:AddDropdown("UniTheme", {
+
+    Title = "Theme Preset",
+
+    Description = "Select one of the available FluentPro themes.",
+
+    Icon = "solar/palette-bold",
+
+    Values = Fluent.Themes,
+
+    Default = CUSTOM_THEME_NAME,
+
+    Multi = false,
+
+    Animated = true,
+
+    DropdownOutsideWindow = false,
+
+    Callback = function(value)
+
+        if value == CUSTOM_THEME_NAME then
+
+            applyCustomTheme()
+
+        else
+
+            Fluent:SetTheme(value)
+
+        end
+
+        task.defer(function()
+
+            if runtimeAlive and Controls.Theme and Controls.Theme.Opened then
+
+                Controls.Theme:Close()
+
+            end
+
+        end)
+
+    end,
+
+})
+
+makeDropdownClosable(Controls.Theme)
+
+Controls.Accent = ThemeSection:AddColorpicker("UniAccent", {
+
+    Title = "Custom Accent Color",
+
+    Description = "Changes borders, icons, sliders, and buttons.",
+
+    Icon = "solar/pipette-bold",
+
+    Default = DEFAULT_ACCENT,
+
+    Transparency = 0,
+
+    Callback = function(color)
+
+        Appearance.Accent = color
+
+        applyCustomTheme()
+
+    end,
+
+})
+
+local BackgroundSection = AppearanceTab:AddSection("Background", "solar/gallery-bold")
+
+Controls.BackgroundPreset = BackgroundSection:AddDropdown("UniBackgroundPreset", {
+
+    Title = "Background Preset",
+
+    Description = "Select an image displayed inside the window.",
+
+    Icon = "solar/gallery-wide-bold",
+
+    Values = BackgroundNames,
+
+    Default = "None",
+
+    Multi = false,
+
+    Animated = true,
+
+    DropdownOutsideWindow = false,
+
+    Callback = function(value)
+
+        Appearance.Background = BackgroundPresets[value] or ""
+
+        Appearance.ShowBackground = true
+
+        applyCustomTheme()
+
+        task.defer(function()
+
+            if runtimeAlive and Controls.BackgroundPreset and Controls.BackgroundPreset.Opened then
+
+                Controls.BackgroundPreset:Close()
+
+            end
+
+        end)
+
+    end,
+
+})
+
+makeDropdownClosable(Controls.BackgroundPreset)
+
+Controls.BackgroundAsset = BackgroundSection:AddInput("UniBackgroundAsset", {
+
+    Title = "Custom Image ID",
+
+    Description = "Enter an ID or rbxassetid://ID, then press Enter.",
+
+    Icon = "solar/link-bold",
+
+    Placeholder = "e.g. 136310484943077",
+
+    Default = "",
+
+    Callback = function(value)
+
+        local normalized = normalizeAssetId(value)
+
+        if normalized == nil then
+
+            Fluent:Notify({
+
+                Title = "Invalid ID",
+
+                Content = "Enter a numeric Roblox image ID.",
+
+                Type = "Error",
+
+                Duration = 4,
+
+            })
+
+            return
+
+        end
+
+        Appearance.Background = normalized
+
+        Appearance.ShowBackground = normalized ~= ""
+
+        applyCustomTheme()
+
+    end,
+
+})
+
+Controls.BackgroundTransparency = BackgroundSection:AddSlider("UniBackgroundTransparency", {
+
+    Title = "Background Transparency",
+
+    Description = "0 is fully visible, while 100 is completely transparent.",
+
+    Icon = "solar/opacity-bold",
+
+    Min = 0,
+
+    Max = 100,
+
+    Default = 18,
+
+    Rounding = 0,
+
+    Callback = function(value)
+
+        Appearance.BackgroundTransparency = value / 100
+
+        applyCustomTheme()
+
+    end,
+
+})
+
+Controls.ShowBackground = BackgroundSection:AddToggle("UniShowBackground", {
+
+    Title = "Show Background",
+
+    Description = "Quickly hides or displays the selected image.",
+
+    Icon = "solar/eye-bold",
+
+    Default = true,
+
+    Callback = function(value)
+
+        Appearance.ShowBackground = value
+
+        updateBackgroundVisibility()
+
+    end,
+
+})
+
+local EffectsSection = AppearanceTab:AddSection("Window Effects", "solar/stars-bold")
+
+Controls.Transparency = EffectsSection:AddToggle("UniTransparency", {
+
+    Title = "Transparent Window",
+
+    Description = "Makes the game slightly visible behind the menu.",
+
+    Icon = "solar/layers-minimalistic-bold",
+
+    Default = true,
+
+    Callback = function(value)
+
+        Appearance.Transparent = value
+
+        Fluent:ToggleTransparency(value)
+
+    end,
+
+})
+
+Controls.Acrylic = EffectsSection:AddToggle("UniAcrylic", {
+
+    Title = "Acrylic Blur",
+
+    Description = "Blurs the scene behind the window.",
+
+    Icon = "solar/layers-bold",
+
+    Default = true,
+
+    Callback = function(value)
+
+        Appearance.Acrylic = value
+
+        Fluent:ToggleAcrylic(value)
+
+    end,
+
+})
+
+Controls.Animation = EffectsSection:AddToggle("UniAnimation", {
+
+    Title = "Animated Border",
+
+    Description = "Enables the moving shine effect of the Uni Custom theme.",
+
+    Icon = "solar/stars-bold",
+
+    Default = true,
+
+    Callback = function(value)
+
+        Appearance.Animated = value
+
+        applyCustomTheme()
+
+    end,
+
+})
+
+EffectsSection:AddButton({
+
+    Title = "Restore Uni Appearance",
+
+    Description = "Resets colors, background, and effects to their defaults.",
+
+    Icon = "solar/restart-bold",
+
+    Callback = function()
+
+        Appearance.Accent = DEFAULT_ACCENT
+
+        Appearance.Background = ""
+
+        Appearance.BackgroundTransparency = 0.18
+
+        Appearance.ShowBackground = true
+
+        Appearance.Animated = true
+
+        Appearance.Acrylic = true
+
+        Appearance.Transparent = true
+
+        pcall(function() Controls.Theme:SetValue(CUSTOM_THEME_NAME) end)
+
+        pcall(function() Controls.Accent:SetValueRGB(DEFAULT_ACCENT, 0) end)
+
+        pcall(function() Controls.BackgroundPreset:SetValue("None") end)
+
+        pcall(function() Controls.BackgroundAsset:SetValue("") end)
+
+        pcall(function() Controls.BackgroundTransparency:SetValue(18) end)
+
+        pcall(function() Controls.ShowBackground:SetValue(true) end)
+
+        pcall(function() Controls.Transparency:SetValue(true) end)
+
+        pcall(function() Controls.Acrylic:SetValue(true) end)
+
+        pcall(function() Controls.Animation:SetValue(true) end)
+
+        Fluent:ToggleTransparency(true)
+
+        Fluent:ToggleAcrylic(true)
+
+        applyCustomTheme()
+
+        Fluent:Notify({
+
+            Title = "Uni",
+
+            Content = "The default Uni appearance has been restored.",
+
+            Type = "Success",
+
+            Duration = 4,
+
+        })
+
+    end,
+
+})
+
+local UnloadSection = SettingsTab:AddSection("Unload", "solar/power-bold")
+
+UnloadSection:AddButton({ Title = "Unload Uni", Description = "Stops the script and removes the entire interface.", Callback = function() unloadUni() end })
+
+Window:SelectTab(1)
+
+Fluent:Notify({ Title = "Uni v1", Content = "Loaded successfully!", Duration = 3 })
