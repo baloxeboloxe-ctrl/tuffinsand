@@ -12,6 +12,9 @@ local LocalPlayer = Players.LocalPlayer
 
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
+# UI
+loadstring(game:HttpGet("https://raw.githubusercontent.com/baloxeboloxe-ctrl/test1/refs/heads/main/X-Ro_UI", true))()
+
 local Environment = getgenv()
 
 local isMobile = UserInputService.TouchEnabled
